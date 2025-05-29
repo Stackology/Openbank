@@ -1,0 +1,53 @@
+# Compilados
+target/
+bin/
+*.class
+
+# IDEs
+*.iml
+.idea/
+*.log
+*.swp
+*.swo
+*.tmp
+
+# VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do Maven
+.mvn/
+.settings/
+.classpath
+.project
+
+# Logs
+*.log
+
+# Sistema operacional
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Arquivos de build do Eclipse
+*.launch
+
+# Arquivos temporários
+*.bak
+*.tmp
+*~
+
+# Ambiente de testes
+test-classes/
+
+# Banco de dados em memória (caso use H2 por exemplo)
+*.mv.db
+*.h2.db
+*.trace.db
+
+# Configurações locais (ex: senhas, arquivos com tokens)
+application-local.properties
+.env
