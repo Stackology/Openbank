@@ -1,4 +1,4 @@
-# Martin Bank
+# OpenBank
 
 O projeto consiste em um sistema Bancario o mais completo possivel com as funçoes mais basicas de um banco.
 
