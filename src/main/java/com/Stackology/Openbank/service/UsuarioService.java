@@ -1,5 +1,6 @@
 package com.Stackology.Openbank.service;
 
+/* condigo quebrado  
 
 public class UsuarioService implements UserDetailsServise{
 
@@ -17,3 +18,4 @@ public class UsuarioService implements UserDetailsServise{
 
     
 }
+*/
