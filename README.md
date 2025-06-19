@@ -1,3 +1,4 @@
+
 # ✅ Banco Digital — Checklist de Funcionalidades e Estrutura
 
 Este projeto é um sistema bancário digital desenvolvido em Java com Spring Boot, focado em boas práticas de arquitetura, segurança e escalabilidade. O objetivo é simular operações bancárias reais, como cadastro de clientes, movimentação de contas, autenticação segura e integração com serviços externos. O sistema foi iniciado em arquitetura monolítica, com planejamento para migração futura para microsserviços, visando maior flexibilidade e manutenção. O projeto também serve como base de estudos para conceitos modernos de desenvolvimento backend, integração contínua e documentação automatizada.
@@ -116,4 +117,6 @@ Este projeto é um sistema bancário digital desenvolvido em Java com Spring Boo
 > **Status:** em andamento  
 > **Desenvolvedor:** GABRIEL MARTINS
 
+=======
+>>>>>>> b938a5519b1a4b9aeb07858a12a163db35d85c32
 
